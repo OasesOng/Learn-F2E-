@@ -4,7 +4,10 @@
 
 ###(A)Blog
 ___
-1.[男丁格爾](http://abgne.tw/)
+1.[男丁格爾](http://abgne.tw/)</br>
+2.[Smashing Magazine](http://www.smashingmagazine.com/)</br>
+3.[Wifeo Code](http://www.wifeo.com/code/)</br>
+4.[F2E的知名廚師](http://uptodate.frontendrescue.org/)</br>
 
 
 ###(B)前端資源懶人包  
@@ -22,9 +25,12 @@ ___
 
 ###(E)JS
 ___
-1.[DataTables #1Table plug-in for jQuery ](https://haml2erb.org/)
+1.[DataTables-Table plug-in for jQuery ](http://www.datatables.net/)</br>
 
 ###(E)Online Tools
 ___
 1.[Haml to eRB/Html](https://haml2erb.org/)</br>
-2.[JS Bin](http://jsbin.com/?html,output)
+2.[JS Bin](http://jsbin.com/?html,output)</br>
+3.[SassMeister](http://sassmeister.com/)</br>
+4.[CodePen](http://codepen.io/)</br>
+5.[LESS2CSS](http://less2css.org/)</br>
