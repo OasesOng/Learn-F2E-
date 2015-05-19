@@ -13,7 +13,7 @@ ___
 
 ###(C)Learning
 ___
-1.[電腦科學學習資源](https://trello.com/b/SfJlgg4P/computer-science-learning-resource)
+1.[電腦科學學習資源](https://trello.com/b/SfJlgg4P/computer-science-learning-resource)</br>
 2.[Codecademy](http://www.codecademy.com/)
 
 ###(D)CSS
@@ -22,7 +22,7 @@ ___
 
 ###(E)JS
 ___
-1.[Haml to eRB/Html](https://haml2erb.org/)
+1.[DataTables #1Table plug-in for jQuery ](https://haml2erb.org/)
 
 ###(E)Online Tools
 ___
