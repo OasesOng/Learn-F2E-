@@ -25,7 +25,7 @@ ___
 ###(E)JS
 ___
 1.[DataTables-Table plug-in for jQuery ](http://www.datatables.net/)</br>
-2.[jplay-The jQuery HTML5 Audio / Video Library](http://www.jplayer.org/)</br>
+2.[jplayer-The jQuery HTML5 Audio / Video Library](http://www.jplayer.org/)</br>
 3.[Intro.js-Better introductions for websites and features with a step-by-step guide for your projects.](http://usablica.github.io/intro.js/)</br>
 4.[simple_form_validation-](https://github.com/tedshd/simple_form_validation)</br>
 5.[rollerblade.js-an easy way to create a 360° interactive image rotator](http://www.iamapioneer.com/plugins/rollerblade/)</br>
