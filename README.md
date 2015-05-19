@@ -14,6 +14,7 @@ ___
 ###(C)Learning
 ___
 1.[電腦科學學習資源](https://trello.com/b/SfJlgg4P/computer-science-learning-resource)
+2.[Codecademy](http://www.codecademy.com/)
 
 ###(D)CSS
 ___
