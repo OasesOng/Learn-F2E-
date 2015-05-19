@@ -8,7 +8,6 @@ ___
 2.[Smashing Magazine](http://www.smashingmagazine.com/)</br>
 3.[Wifeo Code](http://www.wifeo.com/code/)</br>
 4.[F2E的知名廚師](http://uptodate.frontendrescue.org/)</br>
-53
 5.[Codrops](http://tympanus.net/codrops/)</br>
 
 
@@ -32,6 +31,7 @@ ___
 3.[Intro.js-Better introductions for websites and features with a step-by-step guide for your projects.](http://usablica.github.io/intro.js/)</br>
 4.[simple_form_validation-](https://github.com/tedshd/simple_form_validation)</br>
 5.[rollerblade.js-an easy way to create a 360° interactive image rotator](http://www.iamapioneer.com/plugins/rollerblade/)</br>
+6.[bxSlider-The Responsive jQuery Content Slider](http://bxslider.com/)</br>
 
 ###(F)SVG
 ___
