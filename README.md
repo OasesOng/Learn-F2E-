@@ -26,11 +26,15 @@ ___
 ###(E)JS
 ___
 1.[DataTables-Table plug-in for jQuery ](http://www.datatables.net/)</br>
+2.[jplay-The jQuery HTML5 Audio / Video Library](http://www.jplayer.org/)</br>
+3.[Intro.js-Better introductions for websites and features with a step-by-step guide for your projects.](http://usablica.github.io/intro.js/)</br>
 
-###(E)Online Tools
+###(F)Online Tools
 ___
 1.[Haml to eRB/Html](https://haml2erb.org/)</br>
 2.[JS Bin](http://jsbin.com/?html,output)</br>
 3.[SassMeister](http://sassmeister.com/)</br>
 4.[CodePen](http://codepen.io/)</br>
 5.[LESS2CSS](http://less2css.org/)</br>
+6.[GoogleFonts](https://www.google.com/fonts)</br>
+
