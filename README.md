@@ -43,6 +43,7 @@ ___
 7.[Socket.io - Real-Time Engine](http://socket.io/)</br>
 8.[CONVERSE.JS - A free and open-source XMPP chat client in your browser](https://conversejs.org/)</br>
 9.[slick - Fully responsive. Scales with its container.](http://kenwheeler.github.io/slick/)</br>
+10.[Triangulation-  image triangulation experiment ](https://github.com/snorpey/triangulation)</br>
 
 ###(F)SVG
 ___
