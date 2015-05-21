@@ -70,3 +70,7 @@ ___
 ###(H)Framework
 ___
 1.[Amaze UI](http://amazeui.org/)</br>
+
+###(H)JQuery
+___
+1.[jQuery Quick API Reference](http://oscarotero.com/jquery/)</br>
